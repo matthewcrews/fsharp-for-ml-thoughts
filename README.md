@@ -75,7 +75,12 @@ Data Scientists focus on two key workflows: Time to Insight and Time to Model. T
 
 4. Easy grouping of rows and performing analysis on the groups
 5. Windowing of functions
-6. Build ecosystem is fractured and overwhelming
+6. A DataFrame where we could access columns with F# just knowing the type (similar to R `df.NewCol <- aSeries`)
+
+### Libraries and Build System
+
+1. Build ecosystem is fractured and overwhelming
     - Do I use Fake, msbuild, VSCode's tasks with Fake, VSCode's tasks with msbuild?
-7. Package management is fractured and overwhelming
+    - Python has Anaconda and R has CRAN
+2. Package management is fractured and overwhelming
     - Paket vs. Nuget
