@@ -62,7 +62,7 @@ Data Scientists focus on two key workflows: Time to Insight and Time to Model. T
 
 3. Full suite of Joins/Aligning data
     - Inner/Outer/Cross/Left Outer/Right Outer
-    - AsOf/Rulling Joins: 
+    - AsOf/Rolling Joins: 
         - Last Observation Carried Forward (LOCF), LOCF within range
         - Nearest Preceding
         - Nearest Succeeding
